@@ -18,5 +18,4 @@ Live split-view markdown editor with syntax highlighting, dark mode and auto-sav
 npm install && npm run dev
 ```
 
-## License
-MIT — Kenza Nabaghi
+
